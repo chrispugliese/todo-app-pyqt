@@ -1,6 +1,10 @@
+
+
 # 📝 PyQt5 To-Do List App
 
 A desktop to-do list application built using Python and PyQt5. Easily add, complete, and delete tasks with a clean GUI.
+
+
 
 ## 🚀 Features
 
@@ -9,9 +13,7 @@ A desktop to-do list application built using Python and PyQt5. Easily add, compl
 - Delete tasks from either active or completed lists
 - Simple and intuitive layout
 
-## 📸 Screenshot
 
-> *(You can add a screenshot here once you have one)*
 
 ## 🛠️ Requirements
 
@@ -22,27 +24,25 @@ To install PyQt5:
 
 ```bash
 pip install PyQt5
-
-💻 How to Run
-
+```
+## 💻 How to Run
+```bash
 python todo_app.py
+```
+## 📁 Project Structure
 
-📁 Project Structure
+```plaintext
 todo-app-pyqt/
 ├── todo_app.py
 ├── README.md
 └── .gitignore
+```
+## 🎯 Future Improvements
 
-🎯 Future Improvements
+- Task Persistence
+- Due dates and Reminders
+- UI theming or dark mode
+- Export tasks to a file
 
-    Task persistence (save tasks between sessions)
-
-    Due dates and reminders
-
-    UI theming or dark mode
-
-    Export tasks to a file
-
-📄 License
-
+## License
 This project is open source and available under the MIT License.
